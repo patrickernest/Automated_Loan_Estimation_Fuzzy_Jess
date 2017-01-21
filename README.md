@@ -7,6 +7,7 @@ Loan estimations are always necessary either for a banker or a customer. The amo
 
 A flowchart for the Fuzzy Jess Automated Loan Estimation System is given below:-
 
+![2](https://cloud.githubusercontent.com/assets/10784357/22178368/eb94163e-dff9-11e6-9390-c2689ebcb2c3.JPG)
 
 ## KNOWLEDGE BASE
 ### KNOWLEDGE BASE DESCRIPTION
